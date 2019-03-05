@@ -1,0 +1,4 @@
+- Project description- Designed a system for classifying given image as i) 'George Bush' or 'NOT George Bush', ii) 'Serena Williams' or 'NOT Serena Williams'.
+- Use of train-test split on dataset for training the model and testing it on test set.
+- Use of core Machine Learning techniques such as Convolution Neural Networks (CNN), Support Vector Machine (SVM), Principal Component Analysis (PCA), K-nearest neighbors (Knn) and Transfer Learning for face recognition.
+- Measuring precision, recall, F-1 score and accuracy using the mentioned strategies while implementing the system.
